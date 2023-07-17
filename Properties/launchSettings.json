@@ -3,6 +3,7 @@
     "SerialPortWorker": {
       "commandName": "Project",
       "dotnetRunMessages": true,
+      "requireExactSource": false,
       "environmentVariables": {
         "DOTNET_ENVIRONMENT": "Development"
       }

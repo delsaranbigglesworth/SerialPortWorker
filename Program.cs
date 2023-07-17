@@ -8,6 +8,7 @@ Log.Logger = new LoggerConfiguration()
     .MinimumLevel.Debug()
     .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
     .Enrich.FromLogContext()
+    //.WriteTo
     .WriteTo.File(@"C:\Temp\LogFile.txt")
     .CreateLogger();
 
@@ -20,6 +21,7 @@ try
         .ConfigureServices((hostContext, services) =>
         {
             services.AddHostedService<Worker>();
+            services.AddHttpClient();
         })
         .UseSerilog()
         .Build()

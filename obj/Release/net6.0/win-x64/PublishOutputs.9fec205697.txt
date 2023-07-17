@@ -1,0 +1,5 @@
+C:\Users\aajdemaree\Documents\Repo\SerialPortWorker\bin\Release\net6.0\win-x64\publish\appsettings.Development.json
+C:\Users\aajdemaree\Documents\Repo\SerialPortWorker\bin\Release\net6.0\win-x64\publish\appsettings.json
+C:\Users\aajdemaree\Documents\Repo\SerialPortWorker\bin\Release\net6.0\win-x64\publish\SerialPortWorker.pdb
+C:\Users\aajdemaree\Documents\Repo\SerialPortWorker\bin\Release\net6.0\win-x64\publish\aspnetcorev2_inprocess.dll
+C:\Users\aajdemaree\Documents\Repo\SerialPortWorker\bin\Release\net6.0\win-x64\publish\SerialPortWorker.exe
